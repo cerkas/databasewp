@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: Fooddashbord
-Plugin URI: https://web-programming.com.ua
 Description: Food
-Version: 1.0
-Author: Cherkasov Andrei
-Author URI: https://web-programming.com.ua
+
+
 */
 const FOOD_PLUGIN_ID='food_1';
 const FOOD_PLUGIN_NAME='FOOD';
