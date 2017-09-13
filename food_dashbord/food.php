@@ -2,8 +2,6 @@
 /*
 Plugin Name: Fooddashbord
 Description: Food
-
-
 */
 const FOOD_PLUGIN_ID='food_1';
 const FOOD_PLUGIN_NAME='FOOD';
